@@ -6,10 +6,7 @@ a simple command-line calculator built using python
 
 ## features
 
-* supports basic operations: +, -, *, /
-* handles invalid input
-* prevents division by zero
-* runs continuously until user exits
+* **version1:** (python learnt till 11.04.26) supports basic operations: +, -, *, /
 
 ---
 
