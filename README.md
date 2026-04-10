@@ -1,6 +1,7 @@
 # 𓂃⋆.˚ hello, this is Aunam.
 
 aspiring developer learning python through consistent, project-based practice.
+
 𓂃⋆.˚ started: april 2026.
 
 ---
