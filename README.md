@@ -41,6 +41,14 @@ more projects will be added over time.
 
 ---
 
+## ✧ future plans
+
+1. build API-based projects
+2. explore basic AI/ML concepts
+3. create full-stack applications
+
+---
+
 ## 𓂃⋆.˚ notes 🧾
 
 this repository reflects ongoing learning and progress.
