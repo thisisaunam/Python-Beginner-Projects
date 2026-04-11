@@ -45,8 +45,9 @@ run the file using:
 ```bash
 python password_generator_v2.py
 ```
+---
 
-## notes 🧾
+## notes 
 
 * v1 focuses on basic random generation
 * v2 introduces validation, customization, and logic-based evaluation
