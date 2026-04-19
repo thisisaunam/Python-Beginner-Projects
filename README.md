@@ -22,11 +22,11 @@ focus areas:
 
 a collection of beginner python projects, including:
 
-1. calculator
-2. madlibs game
-3. password generator
-4. shopping cart program
-5. countdown timer
+1. calculator ✅
+2. madlibs game ✅
+3. password generator ✅
+4. shopping cart program ✅
+5. countdown timer ✅ [pomodoro timer]
 
 more projects will be added over time.
 
