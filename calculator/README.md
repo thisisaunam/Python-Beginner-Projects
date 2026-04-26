@@ -1,21 +1,21 @@
-# calculator
+# Calculator
 
-a simple command-line calculator built using python
+A simple command-line calculator built using python
 
 ---
 
-## features
+## Features
 
-version 1 (as of 11.04.26):
+Version 1 (as of 11.04.26):
 
 * supports basic operations: +, -, *, /
 * prevents division by zero
 
 ---
 
-## how to run
+## How to run
 
-run the file using:
+Run the file using:
 
 ```
 python calculator.py
@@ -23,12 +23,12 @@ python calculator.py
 
 ---
 
-## notes
+## Notes
 
-this project focuses on:
+This project focuses on:
 
 * user input handling
 * conditional statements
 * basic program logic
 
-this is the first version and will be improved over time.
+This is the first version and will be improved over time.
