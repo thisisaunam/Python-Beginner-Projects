@@ -1,4 +1,4 @@
-# password generator
+# Password Generator
 
 A command-line based password generator built using python.  
 This project evolves from a basic random generator (v1) to a customizable and validated system (v2).
