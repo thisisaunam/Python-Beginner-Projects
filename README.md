@@ -1,57 +1,57 @@
-# 𓂃⋆.˚ hello, this is Aunam.
+# 𓂃⋆.˚ Hello, this is Aunam.
 
-aspiring developer learning python through consistent, project-based practice.
+Aspiring developer learning python through consistent, project-based practice.
 
-𓂃⋆.˚ started: april 2026.
-
----
-
-## ࣪ ִֶָ☾ about
-
-this repository documents my journey of learning python from scratch through small, practical projects.
-focus areas:
-
-1. building strong fundamentals
-2. improving problem-solving skills
-3. writing clean and readable code
-4. staying consistent over time
+𓂃⋆.˚ Started: April 2026.
 
 ---
 
-## 𓂃 ࣪ ִֶָ  projects
+## ࣪ ִֶָ☾ About
 
-a collection of beginner python projects, including:
+This repository documents my journey of learning python from scratch through small, practical projects.
+Focus areas:
 
-1. calculator ✅
-2. madlibs game ✅
-3. password generator ✅
-4. shopping cart program ✅
-5. countdown timer ✅ [pomodoro timer]
-
-more projects will be added over time.
+1. Building strong fundamentals
+2. Improving problem-solving skills
+3. Writing clean and readable code
+4. Staying consistent over time
 
 ---
 
-## 𝜗𝜚 goals
+## 𓂃 ࣪ ִֶָ  Projects
 
-1. strengthen core programming concepts
-2. build projects independently
-3. explore more advanced topics gradually
-4. develop structured and maintainable code practices
+A collection of beginner python projects, including:
 
----
+1. Calculator ✅
+2. Madlibs game ✅
+3. Password generator ✅
+4. Shopping cart program ✅
+5. Countdown timer ✅ [pomodoro timer]
 
-## ✧ future plans
-
-1. build API-based projects
-2. explore basic AI/ML concepts
-3. create full-stack applications
+More projects will be added over time.
 
 ---
 
-## 𓂃⋆.˚ notes 🧾
+## 𝜗𝜚 Goals
 
-this repository reflects ongoing learning and progress.
-projects may be revisited and improved over time.
+1. Strengthen core programming concepts
+2. Build projects independently
+3. Explore more advanced topics gradually
+4. Develop structured and maintainable code practices
+
+---
+
+## ✧ Future plans
+
+1. Build API-based projects
+2. Explore basic AI/ML concepts
+3. Create full-stack applications
+
+---
+
+## 𓂃⋆.˚ Notes 🧾
+
+This repository reflects ongoing learning and progress.
+Projects may be revisited and improved over time.
 
 ---
