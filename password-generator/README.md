@@ -1,31 +1,31 @@
 # password generator
 
-a command-line based password generator built using python.  
-this project evolves from a basic random generator (v1) to a customizable and validated system (v2).
+A command-line based password generator built using python.  
+This project evolves from a basic random generator (v1) to a customizable and validated system (v2).
 
 ---
 
-## overview
+## Overview
 
-this project focuses on building a flexible password generator that allows users to:
+This project focuses on building a flexible password generator that allows users to:
 
 * customize character types  
 * control password length  
 * generate multiple passwords in one session  
 * evaluate password strength  
 
-it reflects progression from basic python concepts to structured program design.
+It reflects progression from basic python concepts to structured program design.
 
 ---
 
-## features
+## Features
 
-### version 1
+### Version 1
 * takes password length as input  
 * generates random password using letters, numbers, and symbols  
 * uses `random` module  
 
-### version 2
+### Version 2
 * allows user to choose:
   1. uppercase letters  
   2. lowercase letters  
@@ -38,21 +38,21 @@ it reflects progression from basic python concepts to structured program design.
 
 ---
 
-## how to run
+## How to run
 
-run the file using:
+Run the file using:
 
 ```bash
 python password_generator_v2.py
 ```
 ---
 
-## notes 
+## Notes 
 
 * v1 focuses on basic random generation
 * v2 introduces validation, customization, and logic-based evaluation
 
-future improvements may include:
+Future improvements may include:
 * guaranteed inclusion of selected character types
 * saving generated passwords to a file
 * enhanced strength analysis
